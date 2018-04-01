@@ -1,0 +1,18 @@
+api parameters
+coin: 'mro'
+
+api endpoint: 'http://chainradar.com/api/v1'
+
+At the block level...
+- blockSize
+- txCount
+- txCumulativeSize
+- timestamp
+
+At the transaction level...
+- size
+- unlockTime
+- inputsCount
+- totalInputsAmount
+- outputsCount
+-totalOutputsAmount
